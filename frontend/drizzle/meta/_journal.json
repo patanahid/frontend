@@ -1,0 +1,48 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1699851315914,
+      "tag": "0000_nebulous_energizer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700134783172,
+      "tag": "0001_regular_microchip",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1700882455122,
+      "tag": "0002_robust_the_executioner",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1701590526323,
+      "tag": "0003_glorious_norrin_radd",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1704723435338,
+      "tag": "0004_cynical_the_hand",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1704837856450,
+      "tag": "0005_striped_prism",
+      "breakpoints": true
+    }
+  ]
+}
